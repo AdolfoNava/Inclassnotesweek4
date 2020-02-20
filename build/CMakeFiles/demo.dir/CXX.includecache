@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cuser/Adolfo/Inclassnotesweek4/Square.cpp
+Square.hpp
+/home/cuser/Adolfo/Inclassnotesweek4/Square.hpp
+
+/home/cuser/Adolfo/Inclassnotesweek4/Square.hpp
+rectangle.hpp
+/home/cuser/Adolfo/Inclassnotesweek4/rectangle.hpp
+
+/home/cuser/Adolfo/Inclassnotesweek4/main.cpp
+iostream
+-
+
+/home/cuser/Adolfo/Inclassnotesweek4/rectangle.cpp
+rectangle.hpp
+/home/cuser/Adolfo/Inclassnotesweek4/rectangle.hpp
+
+/home/cuser/Adolfo/Inclassnotesweek4/rectangle.hpp
+square.hpp
+/home/cuser/Adolfo/Inclassnotesweek4/square.hpp
+
